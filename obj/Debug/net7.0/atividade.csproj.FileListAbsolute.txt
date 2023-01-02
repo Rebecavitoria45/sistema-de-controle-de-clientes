@@ -1,0 +1,15 @@
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\bin\Debug\net7.0\atividade.exe
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\bin\Debug\net7.0\atividade.deps.json
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\bin\Debug\net7.0\atividade.runtimeconfig.json
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\bin\Debug\net7.0\atividade.dll
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\bin\Debug\net7.0\atividade.pdb
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\atividade.csproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\atividade.AssemblyInfoInputs.cache
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\atividade.AssemblyInfo.cs
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\atividade.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\atividade.dll
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\refint\atividade.dll
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\atividade.pdb
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\atividade.genruntimeconfig.cache
+C:\Users\Ricardo\Documents\GitHub\sistema-de-controle-de-clientes\obj\Debug\net7.0\ref\atividade.dll
